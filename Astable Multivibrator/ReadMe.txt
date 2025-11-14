@@ -1,6 +1,7 @@
 Astable Multivibrator Using IC 741:-
 
-In this repositary I would like to share my experience while making an Astable Multivibrator using IC741, with its simulation and practical working. I have made this project during my First year of Electronics engineering.
+In this repositary I would like to share my experience while making an Astable Multivibrator using IC741, 
+with its simulation and practical working. I have made this project during my First year of Electronics engineering.
 
 📌 Components
 
